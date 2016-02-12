@@ -7,4 +7,4 @@ This contains the exercises for the book [Haskell Programming]
 * Chapter 1: All You Need is Lambda
 * Chapter 2: Hello, Haskell!
 * Chapter 3: Strings
-* Chapter 4: Basic datatypes
+* [Chapter 4: Basic datatypes] (4-basic-datatypes/)
